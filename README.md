@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m ~currently~ always working on my dotfiles
-- 🌱 I’m currently learning golang
-- 💬 Ask me about why Haskell is the best language ever created
+- 🔭 I’m ~currently~ always working on my dotfiles.
+- 🌱 I’m currently learning parser combinators and random AST generation for fuzzing.
+- 💬 Haskell.
+
+### Non exhaustive list of things I want to learn:
+- Agda, Idris and dependent typing
+- Coq
+- Isabelle
+- Finally finish reading TaPL
